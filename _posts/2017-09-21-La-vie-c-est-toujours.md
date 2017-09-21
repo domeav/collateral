@@ -40,4 +40,4 @@ Brassens en citant Paul Fort :
 
 Que dire alors de la littérature ?
 
-![La lotterie](/assets/images/2017-09-21-la-lotterie.jpg)
+![La lotterie](/collateral/images/2017-09-21-la-lotterie.jpg)
