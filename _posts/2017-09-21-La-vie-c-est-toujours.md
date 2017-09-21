@@ -10,14 +10,14 @@ surpris.
 
 Pourquoi ?
 
-C'est très simple, je connaissais cette histoire, j'en ai écrit le
+C'est très simple, je connaissais cette histoire, j'en ai posé le
 brouillon quand j'étais adolescent. Il était question d'un village,
 d'une coutume, d'une bergère. Je n'en dirais pas plus parce que j'en
 sais à peine plus : je ne suis jamais allé jusqu'à l'écrire (ce qui
 pour moi est la seule façon de l'imaginer entièrement). Mais la chute
 est bien là, presque identique.
 
-Ce qui me rappelle une impression exactement inverse éprouvée il y a
+Ce qui me rappelle une impression tout à fait inverse éprouvée il y a
 quelques mois à la lecture d'une nouvelle de Fredric Brown :
 **Nightmare in Gray**, qui est exactement similaire à une histoire qui
 n'est pas loin d'ici,
@@ -25,10 +25,10 @@ n'est pas loin d'ici,
 Je faisais semblant de vouloir faire croire que je racontais une
 vieille nouvelle que j'avais lu dans un vieux bouquin.
 
-Et il se trouve que cette nouvelle existait bel et bien, dans un
-recueil au nom improbable, déniché dans un vide-placards d'une
-association de philosophards. Ce recueil est vert, je l'ai dans la
-main, je vous promets qu'il est réel.
+Et il se trouve que cette nouvelle existe bel et bien, la voici dans
+ce recueil au nom improbable, déniché lors du dernier vide-placards de
+l'association de philosophards locale. Ce recueil est vert, je le
+tiens dans la main, je vous promets qu'il est réel.
 
 Ce que je ne comprends pas, par contre, c'est pourquoi ces deux
 découvertes m'ont fait deux impressions aussi dissemblables, puisqu'il
