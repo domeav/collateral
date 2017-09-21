@@ -21,14 +21,14 @@ Ce qui me rappelle une impression exactement inverse éprouvée il y a
 quelques mois à la lecture d'une nouvelle de Fredric Brown :
 **Nightmare in Gray**, qui est exactement similaire à une histoire qui
 n'est pas loin d'ici,
-**[le quai de gare](2012-03-19-le-quai-de-gare.md)**.
+**[le quai de gare](/collateral/2012/03/19/le-quai-de-gare.html)**.
 Je faisais semblant de vouloir faire croire que je racontais une
 vieille nouvelle que j'avais lu dans un vieux bouquin.
 
 Et il se trouve que cette nouvelle existait bel et bien, dans un
 recueil au nom improbable, déniché dans un vide-placards d'une
 association de philosophards. Ce recueil est vert, je l'ai dans la
-main, je vous promets qu'il existe.
+main, je vous promets qu'il est réel.
 
 Ce que je ne comprends pas, par contre, c'est pourquoi ces deux
 découvertes m'ont fait deux impressions aussi dissemblables, puisqu'il
