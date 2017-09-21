@@ -20,9 +20,10 @@ est bien là, presque identique.
 Ce qui me rappelle une impression exactement inverse éprouvée il y a
 quelques mois à la lecture d'une nouvelle de Fredric Brown :
 **Nightmare in Gray**, qui est exactement similaire à une histoire qui
-n'est pas loin d'ici, **[le quai de gare](#)**. Je faisais semblant de
-vouloir faire croire que je racontais une vieille nouvelle que j'avais
-lu dans un vieux bouquin.
+n'est pas loin d'ici,
+**[le quai de gare](2012-03-19-le-quai-de-gare.md)**.
+Je faisais semblant de vouloir faire croire que je racontais une
+vieille nouvelle que j'avais lu dans un vieux bouquin.
 
 Et il se trouve que cette nouvelle existait bel et bien, dans un
 recueil au nom improbable, déniché dans un vide-placards d'une
