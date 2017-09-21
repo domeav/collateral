@@ -39,3 +39,5 @@ Brassens en citant Paul Fort :
     la vie c'est toujours les mêmes chansons
 
 Que dire alors de la littérature ?
+
+![La lotterie](/assets/images/2017-09-21-la-lotterie.jpg)
