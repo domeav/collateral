@@ -1,8 +1,9 @@
 ---
-title:  "L'epistemologie chez les bebes"
+title:  "L'épistemologie chez les bébés"
 date:   2014-03-20 11:16:00
 tags:   
 ---
 
-<p><img alt="image" src="https://31.media.tumblr.com/18cc4482d9241067bb3eeef6dba9ee04/tumblr_inline_n2qci2tNC41r8k9kn.jpg"/></p>
+![Epistémologie](/collateral/images/2014-03-20-lepistemologie-chez-les-bebes.jpg)
+
 <p>Chez les bébés, l'épistémologie n'est que compulsive, bien évidemment&hellip;</p>
