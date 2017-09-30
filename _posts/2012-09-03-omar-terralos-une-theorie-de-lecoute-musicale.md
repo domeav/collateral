@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Omar Terralos, une theorie de l'ecoute musicale"
 date:   2012-09-03 10:16:14
 tags:   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Des petits programmeurs sont assassinejs"
 date:   2016-10-20 18:16:05
 tags:   

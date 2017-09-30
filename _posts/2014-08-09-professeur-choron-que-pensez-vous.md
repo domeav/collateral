@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Professeur Choron, que pensez-vous"
 date:   2014-08-09 23:13:00
 tags:   

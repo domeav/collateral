@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "La dedicace"
 date:   2014-02-22 11:59:00
 tags:   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Potron Minet"
 date:   2012-03-13 09:01:50
 tags:   Collatéral Normandie

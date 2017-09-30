@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Beances narratives"
 date:   2012-10-29 22:10:00
 tags:   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Francis runs the voodoo down"
 date:   2015-05-28 23:02:08
 tags:   

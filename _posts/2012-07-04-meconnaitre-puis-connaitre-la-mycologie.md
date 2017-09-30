@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "meconnaitre puis connaitre la mycologie tolstoienne"
 date:   2012-07-04 22:11:00
 tags:   

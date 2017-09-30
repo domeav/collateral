@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "L'accord du participe passé en apposition"
 date:   2017-01-20 09:30:49
 tags:   

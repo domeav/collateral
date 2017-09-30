@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Le regret de Flaubert"
 date:   2012-07-25 18:54:00
 tags:   

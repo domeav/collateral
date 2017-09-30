@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Comme il faisait une chaleur de 33 degres"
 date:   2014-01-29 16:49:00
 tags:   

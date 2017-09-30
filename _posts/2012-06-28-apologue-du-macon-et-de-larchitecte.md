@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Apologue du macon et de l'architecte"
 date:   2012-06-28 19:52:00
 tags:   

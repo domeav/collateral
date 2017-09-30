@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "La mort de la mort"
 date:   2015-05-01 23:01:15
 tags:   

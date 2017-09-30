@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "La malediction de John Lewis"
 date:   2013-07-25 10:35:00
 tags:   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ritournelle pour M. Richard Galliano"
 date:   2015-01-21 17:44:00
 tags:   

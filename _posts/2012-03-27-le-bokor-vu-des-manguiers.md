@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Le Bokor vu des Manguiers on Flickr."
 date:   2012-03-27 10:04:37
 tags:   Cambodge Argentique Seagull

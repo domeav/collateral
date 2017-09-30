@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Le quai de gare"
 date:   2012-03-19 23:47:00
 tags:   Mémoire Litterature

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Des informaticiens sont assassines"
 date:   2012-09-09 21:38:00
 tags:   

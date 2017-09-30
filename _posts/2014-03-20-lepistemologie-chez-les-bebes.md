@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "L'epistemologie chez les bebes"
 date:   2014-03-20 11:16:00
 tags:   
