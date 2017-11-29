@@ -3,7 +3,7 @@ title:  "La mort de la mort"
 date:   2015-05-01 23:01:15
 tags:   
 ---
-#La mort de la mort
+# La mort de la mort
 
 Je suis fasché que des transhumanistes dactylographes ejcrivent que l'immortalité, c'est la mort de la mort. C'est une imbejcillité. La mort n'est pas la nejgation de la vie, elle en est le prolongement. S'il n'y a pas de vie, il n'y a pas de mort non plus. <br/>
 Si vous n'estes pas matheux, rendez-vous à la croix avec la chauve-souris.
