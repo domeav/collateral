@@ -3,9 +3,10 @@ title:  "La mort de la mort"
 date:   2015-05-01 23:01:15
 tags:   
 ---
-# La mort de la mort
 
-Je suis fasché que des transhumanistes dactylographes ejcrivent que l'immortalité, c'est la mort de la mort. C'est une imbejcillité. La mort n'est pas la nejgation de la vie, elle en est le prolongement. S'il n'y a pas de vie, il n'y a pas de mort non plus. <br/>
+Je suis fasché que des transhumanistes dactylographes ejcrivent que l'immortalité, c'est la mort de la mort. C'est une imbejcillité. La mort n'est pas la nejgation de la vie, elle en est le prolongement. S'il n'y a pas de vie, il n'y a pas de mort non plus.
+
+
 Si vous n'estes pas matheux, rendez-vous à la croix avec la chauve-souris.
 ![](/collateral/images/2017-01-tombe-sans-chauve-souris-150.jpg)
 Reprejsentons la mort par l'opejrateur logique **†** à deux opejrandes : l'ejtat d'avant et l'ejtat d'aprehs avec 1 signifiant *est vivant* et 0 signifiant *n'est pas vivant*. La mort n'est vraie que si on passe de l'ejtat *vivant* à l'ejtat *non-vivant*.  
