@@ -1,7 +1,6 @@
 ---
 title:  "Beances narratives"
 date:   2012-10-29 22:10:00
-tags:   
 ---
 
 Le lecteur se nourrit de vide, il nourrit son imagination des vides que laisse l'écrivain dans la narration&hellip;

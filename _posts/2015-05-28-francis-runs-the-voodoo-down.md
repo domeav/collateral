@@ -1,7 +1,6 @@
 ---
 title:  "Francis runs the voodoo down"
 date:   2015-05-28 23:02:08
-tags:   
 ---
 
 (Au passage, je souhaite souligner que je supporte de moins en moins la tendance qui consiste à utiliser l'anglais à tout bout de champ parce que ça sonne hype. Je ne le répèterai pas.)

@@ -1,7 +1,6 @@
 ---
 title:  "La malediction de John Lewis"
 date:   2013-07-25 10:35:00
-tags:   
 ---
 
 Quand je pense à John Lewis, c'est aux quelques notes de piano qui

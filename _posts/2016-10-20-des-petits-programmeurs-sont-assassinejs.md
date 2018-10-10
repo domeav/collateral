@@ -1,7 +1,6 @@
 ---
 title:  "Des petits programmeurs sont assassinejs"
 date:   2016-10-20 18:16:05
-tags:   
 ---
 
 <img alt="image" src="/collateral/images/2016-10-20-sang.jpg">

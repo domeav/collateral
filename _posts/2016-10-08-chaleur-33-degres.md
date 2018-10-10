@@ -1,7 +1,6 @@
 ---
 title:  "Comme il faisait une chaleur de 33 degrés"
 date:   2016-10-08 21:06:31
-tags:   
 ---
 
 Il y a plusieurs de façons de lire un roman, plus ou moins opiniâtres, plus ou moins obstinées. En voici une qu'on pourrait dire morphologique… ou de degré "moins un" selon la métrique de Barthes... 

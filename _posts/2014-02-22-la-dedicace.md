@@ -1,7 +1,6 @@
 ---
 title:  "La dedicace"
 date:   2014-02-22 11:59:00
-tags:   
 ---
 
 C'est avec stupeur et exaltation que j'appris que Juan Rodolfo Wilcock

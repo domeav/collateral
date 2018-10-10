@@ -1,7 +1,6 @@
 ---
 title:  "Le regret de Flaubert"
 date:   2012-07-25 18:54:00
-tags:   
 ---
 
 Il y a plusieurs de façons de lire un roman, plus ou moins opiniâtres,

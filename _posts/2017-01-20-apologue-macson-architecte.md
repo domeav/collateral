@@ -1,7 +1,6 @@
 ---
 title:  "Apologue du macson et de l'architecte"
 date:   2017-01-20 19:14:21
-tags:   
 ---
 
 ![](/collateral/images/2017-01-oeil.gif)

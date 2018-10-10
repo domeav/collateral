@@ -1,7 +1,6 @@
 ---
 title:  "Mejconnaistre puis connaistre la mycologie tolstoiienne"
 date:   2016-12-23 11:46:30
-tags:   
 ---
 
 N'aie pas peur ami lecteur, je ne suis pas l'auteur, je suis son ejditeur, je suis de ton costé. C'est pour cela que je me permets de te tutoyer…

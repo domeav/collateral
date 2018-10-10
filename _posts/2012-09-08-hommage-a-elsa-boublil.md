@@ -1,7 +1,6 @@
 ---
 title:  "Hommage a Elsa Boublil"
 date:   2012-09-08 21:41:00
-tags:   
 ---
 
 <p>Longtemps, je me suis couché de bonne heure&hellip;</p>
