@@ -21,7 +21,7 @@ Ce qui me rappelle une impression tout à fait inverse éprouvée il y a
 quelques mois à la lecture d'une nouvelle de Fredric Brown :
 **Nightmare in Gray**, qui est exactement similaire à une histoire qui
 n'est pas loin d'ici,
-**[le quai de gare](/collateral/2012/03/19/le-quai-de-gare.html)**.
+**[le quai de gare](/2012/03/19/le-quai-de-gare.html)**.
 Je faisais semblant de vouloir faire croire que je racontais une
 vieille nouvelle que j'avais lu dans un vieux bouquin.
 
@@ -40,4 +40,4 @@ Brassens en citant Paul Fort :
 
 Que dire alors de la littérature ?
 
-![La lotterie](/collateral/images/2017-09-21-la-lotterie.jpg)
+![La lotterie](/images/2017-09-21-la-lotterie.jpg)

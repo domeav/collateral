@@ -20,4 +20,4 @@ J'ai dans mon sac un poulet, j'espère qu'il fera l'affaire : quand la grande da
 *Maître Kébébaa est un voyant médium compétent reconnu avec ses 31 années d'expérience.*  
 *Les résultats sont garantis dans tous les domaines sous 48h, pour une solution rapide et définitive.*
 
-![Patte de poulet](/collateral/images/2015-05-pattepoulet.jpg)
+![Patte de poulet](/images/2015-05-pattepoulet.jpg)

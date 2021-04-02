@@ -27,7 +27,7 @@ préparatoire appelait les accents circonflexes les chapeaux de
 gendarmes, c'était sans doute pour que ça nous fût plus facile à
 retenir, nous, les petits élèves.
 
-![chapeau](/collateral/images/2012-07-25-chapeau.jpg)
+![chapeau](/images/2012-07-25-chapeau.jpg)
 
 Oui mais non, parce que déjà depuis longtemps les gendarmes avaient un
 képi et même du temps où mon instituteur du cours préparatoire était
@@ -74,16 +74,16 @@ du subjonctif. Et Grévisse explique que, si on veut exprimer une idée
 de regret dans cette construction conditionnelle au passé, il faut
 mettre le subjonctif plutôt que l'indicatif.
 
-![monsieur](/collateral/images/2012-07-25-monsieur.jpg)
+![monsieur](/images/2012-07-25-monsieur.jpg)
 
 C'est cette construction qu'on retrouve dans le Testament de Villon : *Hé ! Dieu, si j’eusse étudié / Au temps de ma jeunesse folle / Et à bonnes mœurs dédié, / J’eusse maison et couche molle.*
 
-![testament](/collateral/images/2012-07-25-testament.jpg)
+![testament](/images/2012-07-25-testament.jpg)
 
 
 C'est parce que Villon regrettait ! S'il n'avait regretté, il aurait écrit : &hellip; *si j’avais étudié* ou *si j'eus étudié*&hellip; Enfin, je ne sais pas trop comment ça se théorisait au XVème siècle&hellip;
 
-![flaubert](/collateral/images/2012-07-25-flaubert.jpg)
+![flaubert](/images/2012-07-25-flaubert.jpg)
 
 Donc il y a du regret dans la belle phrase de Flaubert. Mais qui
 regrette ? Emma ? non, elle est déjà morte quand cette phrase est

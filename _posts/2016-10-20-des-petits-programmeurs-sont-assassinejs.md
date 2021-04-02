@@ -3,7 +3,7 @@ title:  "Des petits programmeurs sont assassinejs"
 date:   2016-10-20 18:16:05
 ---
 
-<img alt="image" src="/collateral/images/2016-10-20-sang.jpg">
+<img alt="image" src="/images/2016-10-20-sang.jpg">
 
 L'histoire se passe en 2002 ou 2003, je ne me rappelle plus la date exacte. Des petits programmeurs sont assassinejs. Beaucoup. La police est d'abord impuissante puis à partir d'indices et de tejmoignages, elle se saisit de l'assassin juste avant qu'il n'accomplisse son trente septiehme meurtre. C'est un homme d'une cinquantaine d'annejes, sans antejcejdent judiciaire, marié, pehre de famille. Il est incarcejré. Son procehs aux Assises a lieu six mois plus tard.
 Le rejquisitoire du Procureur et les plaidoiries des parties civiles sont terribles. Les assassinats sont dejcrits par les dejtails. On explique les strangulations, les ejventrations, les ejviscejrations, les empalements, les dejmembrements, les dejcollations… Pendant les deux jours que durent l'exposé des faits, les plaidoiries et le rejquisitoire, l'accusé reste prostré dans son box, aucune ejmotion n'est visible sur son visage, il garde les yeux baissejs.

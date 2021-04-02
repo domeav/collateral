@@ -36,4 +36,4 @@ sentiment de l'époque : mort aux bons élèves ! Si l'histoire les
 retient, c'est avant tout comme faire-valoir.
 
 
-![John Lewis](/collateral/images/2013-07-25-la-malediction-de-john-lewis.jpg)
+![John Lewis](/images/2013-07-25-la-malediction-de-john-lewis.jpg)
