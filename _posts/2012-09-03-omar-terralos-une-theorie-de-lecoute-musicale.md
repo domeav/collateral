@@ -45,7 +45,7 @@ improvisation*) sont possibles.
 
 Suivent de nombreux exemples et analogies, notamment avec le
 théâtre. Lors d'un concert, le respect de la partition est secondaire
-: l'essentiel est l'affirmation du ou des discours. Voir des musiciens
+&nbsp;: l'essentiel est l'affirmation du ou des discours. Voir des musiciens
 suivre leur partition ne présente qu'un intérêt limité, comme une
 lecture théâtrale. La suspension de l'incrédulité doit permettre un
 émerveillement renouvelé, par exemple à chaque fois qu'un orchestre

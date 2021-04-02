@@ -5,7 +5,7 @@ date:   2012-03-09
 Georges Charbonnier n'a pas de notice dédiée sur la wikipedia au
 moment où j'écris cette note. Ses *entretiens* sont pourtant
 référencés dans les pages suivantes de l'encyclopédie, qui brossent
-de son travail un portrait en creux :
+de son travail un portrait en creux&nbsp;:
 
 - [Henri Chopin](http://fr.wikipedia.org/wiki/Henri_Chopin)
 - [Pierre Barbaud](http://fr.wikipedia.org/wiki/Pierre_Barbaud)
@@ -40,7 +40,7 @@ pétri de structuralisme et de phénoménologie :
   les regrets, les anathèmes, les palinodies, les nostalgies de toutes
   sortes si haut exprimées en sont le signe le plus sûr.
  
-A l'inverse, Borges est lumineux :
+A l'inverse, Borges est lumineux&nbsp;:
 
 > Je pense que vous demandez trop à la littérature, vous êtes trop
   ambitieux ! (...) Je ne sais pas ce que vous avez écrit, ni
