@@ -1,5 +1,5 @@
 ---
-title:  "La malediction de John Lewis"
+title:  "La malédiction de John Lewis"
 date:   2013-07-25 10:35:00
 ---
 

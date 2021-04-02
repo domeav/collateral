@@ -1,5 +1,5 @@
 ---
-title:  "Aube - Maniere noire"
+title:  "Aube - Manière noire"
 date:   2012-11-26 09:18:41
 ---
 

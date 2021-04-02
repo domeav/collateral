@@ -1,5 +1,5 @@
 ---
-title:  "La dedicace"
+title:  "La dédicace"
 date:   2014-02-22 11:59:00
 ---
 

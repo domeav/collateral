@@ -1,5 +1,5 @@
 ---
-title:  "Omar Terralos, une theorie de l'ecoute musicale"
+title:  "Omar Terralos, une théorie de l'écoute musicale"
 date:   2012-09-03 10:16:14
 ---
 

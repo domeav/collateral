@@ -1,5 +1,5 @@
 ---
-title:  "Drame geometrique a l'adresse des ambitieux"
+title:  "Drame géometrique a l'adresse des ambitieux"
 date:   2014-12-12 17:08:00
 ---
 
