@@ -4,10 +4,10 @@ date:   2013-07-25 10:35:00
 ---
 
 Quand je pense à John Lewis, c'est aux quelques notes de piano qui
-répondent à l'appel de Parker en ouverture de Parker's mood,
-1948. Il est y est comme toujours ampoulé et raisonnable, le Modern
-Jazz Quartet qui lui assurerait une éternelle postérité de seconde
-zone n'existait pas encore.
+répondent à l'appel de Parker en ouverture de Parker's mood, 1948. Il
+est y est comme toujours ampoulé et raisonnable, le Modern Jazz
+Quartet qui lui assurerait une éternelle postérité de seconde zone
+n'existait pas encore.
 
 
 Je pense aussi à cette citation que je crois avoir lu dans
@@ -31,7 +31,7 @@ seconds rôles.
 
 
 &ldquo;L'homme à l'affût&rdquo; qui contient cette phrase date de 1959
-- la mémoire et un demi siècle d'hagiographies n'ont donc pas trahi le
+&ndash; la mémoire et un demi siècle d'hagiographies n'ont donc pas trahi le
 sentiment de l'époque : mort aux bons élèves ! Si l'histoire les
 retient, c'est avant tout comme faire-valoir.
 
