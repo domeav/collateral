@@ -1,7 +1,6 @@
 ---
 title:  "Le quai de gare"
 date:   2012-03-19 23:47:00
-tags:   Mémoire Litterature
 ---
 
 Il y a aussi cette histoire qui m'obsède, que j'ai lue il y a
